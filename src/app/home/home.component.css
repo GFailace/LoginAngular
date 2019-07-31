@@ -1,0 +1,19 @@
+.card{
+    text-align: center;
+    float: left;
+    margin: 10px;
+}
+.home{
+    top: 0;
+    margin: 0 5.5%;
+    justify-content: center;
+    align-content: center;
+}
+h2{
+    text-align: center;
+  }
+@media (min-width:500px){
+    .home{
+        margin: auto 27%;
+    }
+}

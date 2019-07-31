@@ -1,0 +1,4 @@
+/* You can add global styles to this file, and also import other style files */
+html, body { height: 100vh; }
+body { margin: 0; box-sizing: border-box; overflow-y: auto; font-family: Roboto, "Helvetica Neue", sans-serif; font-weight: 300; background: #102027; color: #FFF;}
+

@@ -1,0 +1,14 @@
+.logo{
+    width: 200px;
+}
+.main-logo{
+    justify-content: center;
+    align-items: center;
+    padding-top: 25%;
+}
+
+@media(min-width:500px){
+    .main-logo{
+        padding-top: 8%;
+    }
+}

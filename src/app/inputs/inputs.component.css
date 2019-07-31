@@ -1,0 +1,68 @@
+form{
+    background: transparent;
+    color: #FFF;
+}
+input:placeholder{
+    color: #FFF;
+}
+mat-label{
+    color: #FFF;
+}
+.example-full-width input{
+    color: #FFF;
+    border-color: #FFF;
+}
+::ng-deep .mat-focused .mat-form-field-label {
+    /*change color of label*/
+    color: white !important;
+   }
+  
+::ng-deep.mat-form-field-underline {
+    /*change color of underline*/
+    background-color: white !important;
+  } 
+::ng-deep.mat-form-field-ripple {
+ /*change color of underline when focused*/
+ background-color: white !important;
+}
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 80%;
+    justify-content: center;
+    align-content: center;
+    margin: 0 auto;
+    text-align: center;
+    color: #FFF;
+    
+  }  
+  .example-full-width {
+    width: 100%;
+    color: #FFF;    
+  }
+  .forgot{
+    margin-top: 10px;    
+    color: #FFF;     
+  }
+  .forgot small{
+    float: left;
+    margin-bottom: 20px;
+  }
+  .forgot strong{
+    float: right;
+    margin-top: -3px;
+    font-weight: 300;
+    margin-bottom: 20px;
+  }
+  .forgot a {
+      color: #FFF;      
+      text-decoration: none; 
+  }
+  .forgot a:hover{
+    color:#dcdcdc;
+  }
+  .btn{
+      background: transparent;
+      color: #FFF;
+      border-color: #FFF;
+  }
